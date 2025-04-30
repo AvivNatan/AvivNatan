@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Aviv Natan
 
-I'm a passionate software developer with a strong interest in backend and full-stack development.  
-I love writing clean, efficient code and solving real-world problems through thoughtful software design.
+I'm a passionate software developer with a strong interest in **backend and full-stack** development.  
+I love writing clean, Strong analytical and problem-solving skills, with the ability to learn new technologies independently. 
 
 ---
 
 ## 🚀 About Me
 
-🎓 B.Sc. Computer Science student at The Academic College of Tel-Aviv Yafo (Graduation: September 2025)  
+🎓 B.Sc. Computer Science student at **The Academic College of Tel-Aviv Yafo** (Graduation: September 2025)  
 💼 Open to full-time software development roles – available to start immediately  
 💻 Hands-on experience with Java, C#, Node.js, Spring Boot, .NET Framework, and React  
 🧠 Special interest in backend architecture, multithreading,   
