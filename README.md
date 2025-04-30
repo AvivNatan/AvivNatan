@@ -10,7 +10,7 @@ I love writing clean, Strong analytical and problem-solving skills, with the abi
 🎓 B.Sc. Computer Science student at **The Academic College of Tel-Aviv Yafo** (Graduation: September 2025)  
 💼 Open to full-time software development roles – available to start immediately  
 💻 Hands-on experience with Java, C#, Node.js, Spring Boot, .NET Framework, and React  
-🧠 Special interest in backend architecture, multithreading,   
+🧠 Special interest in backend architecture, multithreading, system design, and scalable solutions  
 🌱 Constantly learning, exploring, and excited to grow in a collaborative development team  
 📁 [Check out my Project Portfolio](https://my-projects-portfolio-lilac.vercel.app/)  
 📫 [LinkedIn](https://www.linkedin.com/in/aviv-natan-962990286/) | [GitHub](https://github.com/AvivNatan)
