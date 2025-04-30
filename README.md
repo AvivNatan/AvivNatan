@@ -30,21 +30,21 @@ I love writing clean, Strong analytical and problem-solving skills, with the abi
 
 ## 💼 Projects
 
-### 🔐 [SafeChat](https://github.com/AvivNatan/BeSafeHackathon2025.git)
+### [SafeChat](https://github.com/AvivNatan/BeSafeHackathon2025.git)
 Hackathon project developed with QueenB & AppsFlyer – a real-time chat platform that analyzes message safety to detect potential risks such as phishing and fraud.  
 **Tech:** React, Node.js, Express, MongoDB
 
-### ⚙️ [Stepper](https://github.com/AvivNatan/Stepper)
+### [Stepper](https://github.com/AvivNatan/Stepper)
 A generic workflow engine built in Java, allowing non-technical users to define and run processes based on modular and reusable logic units (“Steps”).  
 **Features:** Multithreading, client-server architecture, Java, XML, JSON Serialization and HTTP.
 
-### 🧠 [NLP Clustering Project](https://github.com/AvivNatan/NLP-clustering-naming)
+### [NLP Clustering Project](https://github.com/AvivNatan/NLP-clustering-naming)
 Analyzing and clustering unrecognized user requests in goal-oriented dialog systems using Python.  
 **Tech:** K-Means, NLP, HuggingFace, Python
 
-### 🧠 [FaceBook WinForm Application](https://github.com/AvivNatan/Facebook-App-Design-Patterns)
+### [FaceBook WinForm Application](https://github.com/AvivNatan/Facebook-App-Design-Patterns)
 Developed a C# desktop application integrating design patterns, asynchronous programming, and 
-API usage. 
+API usage.
 **Tech:** C# .NET WinForms, Facebook Graph API, OOP, Multithreading.
 
 ---
